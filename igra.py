@@ -28,3 +28,6 @@ def click_on_circle(event):
 
 ball()
 window.mainloop()
+
+ball()
+window.mainloop()
